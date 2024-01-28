@@ -1,0 +1,26 @@
+**Database Name: prmsdb**
+
+
+**Admin Login** 
+
+Username: admin
+Password: admin
+
+
+**Doctor Login**
+
+Username: 11DR
+Password: password
+
+**Patient Login**
+
+Username: 69P
+Password: password
+
+Username: 11P
+Password: password
+
+**Staff Login**
+
+Username: 10S
+Password: password
